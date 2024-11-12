@@ -30,3 +30,4 @@ Linux commands I used 99% of the time:
 3. `dstat` - Combined system stats view.
 4. `strace` - Trace system calls and signals.
 5. `lsof` - List open files and associated processes.
+6. `netstat` - Displays network connections, routing tables, etc.
